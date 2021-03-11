@@ -8,3 +8,5 @@ Team2 Members:
 3)Vinay Guda
 4)Vineeth Reddy Pati
 
+NOTE:
+The architecture diagram of the eDiligence project was mailed to the professor.
