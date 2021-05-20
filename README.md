@@ -10,3 +10,4 @@ Team2 Members:
 
 NOTE:
 The architecture diagram of the eDiligence project was mailed to the professor.
+Have not submitted architecture diagram in SJSU Canvas as we have signed NDA with eDiligence.
